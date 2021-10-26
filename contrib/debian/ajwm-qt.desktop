@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Bitcoin Core
+Comment=Connect to the Ajwm P2P Network
+Exec=ajwm-qt %u
+Terminal=false
+Type=Application
+Icon=ajwm128
+MimeType=x-scheme-handler/ajwm;
+Categories=Office;Finance;
+StartupWMClass=Ajwm-qt
+Name[en_US]=ajwm-qt

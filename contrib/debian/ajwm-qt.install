@@ -1,0 +1,6 @@
+usr/local/bin/ajwm-qt usr/bin
+share/pixmaps/ajwm32.xpm usr/share/pixmaps
+share/pixmaps/ajwm16.xpm usr/share/pixmaps
+share/pixmaps/ajwm128.png usr/share/pixmaps
+debian/ajwm-qt.desktop usr/share/applications
+debian/ajwm-qt.protocol usr/share/kde4/services/
